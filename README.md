@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/mazeenaljane](https://www.behance.net/mazeenaljane)
 
-- 📫 How to reach me **mazen.aljane@esprit.tn** <a href="https://linkedin.com/in/mazenaljane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazenaljane" height="30" width="40" /></a>
+- 📫 How to reach me : **https://linkedin.com/in/mazenaljane** / **mazen.aljane@esprit.tn** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BoV8vfrbryPjv7X9peUeB_PkcljZroyl/view?usp=sharing](https://drive.google.com/file/d/1BoV8vfrbryPjv7X9peUeB_PkcljZroyl/view?usp=sharing)
 
