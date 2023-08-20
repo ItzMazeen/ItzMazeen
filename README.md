@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen ALJANE</h1>
-<h3 align="center">Software engineering student from Tunisia</h3>
+<h3 align="center">Cloud & DevOps engineering student from Tunisia</h3>
 
 - 🌱 I’m currently learning **Angular**
 
