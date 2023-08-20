@@ -8,6 +8,6 @@ Quickly grasp new technical skills and concepts to deliver under tight deadlines
 
 <h3 align="center">   - 👨‍💻 All of my projects are available at : <a href="https://www.behance.net/mazeenaljane">Behance</a></h3>
 
-<h3 align="center">  - 📫 How to reach me : <a href="https://linkedin.com/in/mazenaljane">LinkedIn </a> OR my e-mail : mazen.aljane@esprit.tn </h3>
+<h3 align="center">  - 📫 How to reach me : <a href="https://linkedin.com/in/mazenaljane">LinkedIn </a> OR my e-mail : <a href="mailto:mazen.aljane@esprit.tn"> mazen.aljane@esprit.tn  </a> </h3>
 
 
