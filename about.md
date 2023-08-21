@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen ALJANE</h1>
-<h3 align="center">☁️ Cloud & DevOps engineering student from Tunisia 🇹🇳</h3>
+<h3 align="center">☁️ Cloud & DevOps engineering student from Tunisia</h3>
 
 <h3 align="center"> - 🦸‍♂️ An enthusiastic 23-years-old Cloud & DevOps engineering student at ESPRIT university, with board technical exposure. </h3>
   
