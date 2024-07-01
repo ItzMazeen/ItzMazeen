@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mazen ALJANE</h1>
 <h3 align="center">Cloud & DevOps engineering student from Tunisia</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular**, **typescript**, **springboot** and **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/mazeenaljane](https://www.behance.net/mazeenaljane)
 
 - 📫 How to reach me : **https://linkedin.com/in/mazenaljane** / **mazen.aljane@esprit.tn** 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yyI2_DjxTpyHaleF7OX0Wl0oyXN-CVyB/view?usp=sharing](https://drive.google.com/file/d/1yyI2_DjxTpyHaleF7OX0Wl0oyXN-CVyB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WfQcyRPRZ3NT9TDKz9cZdPyMpWvN1BxI/view?usp=sharing](https://drive.google.com/file/d/1WfQcyRPRZ3NT9TDKz9cZdPyMpWvN1BxI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
