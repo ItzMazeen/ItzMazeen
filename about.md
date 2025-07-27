@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mazen ALJANE</h1>
-<h3 align="center">☁️ Cloud & DevOps engineering student from Tunisia ☁️</h3>
+<h3 align="center">☁️ Cloud & DevOps engineer ☁️</h3>
 
-<h3 align="center"> - 🦸‍♂️ An enthusiastic 24-years-old Cloud & DevOps engineering student at ESPRIT university, with board technical exposure. </h3>
+<h3 align="center"> - 🦸‍♂️ An enthusiastic 25-years-old Cloud & DevOps engineer, with board technical exposure. </h3>
   
 <h3 align="center">  Bringing professionalism and dedication to web and mobile development projects teams. </h3>
 
 <h3 align="center"> Quickly grasp new technical skills and concepts to deliver under tight deadlines. </h3>
 
-<h3 align="center">  - 🌱 I’m currently learning : Cloud Computing, Azure, CI/CD DevOps/DevSecOps and Jenkins. </h3>
+<h3 align="center">  - 🌱 I’m currently learning : Cloud Computing, CI/CD DevSecOps, Azure and AWS </h3>
 
 <h3 align="center">   - 👨‍💻 All of my projects are available at : <a href="https://www.behance.net/mazeenaljane" target="_blank">Behance</a></h3>
 
