@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mazen ALJANE</h1>
-<h3 align="center">Cloud & DevOps engineering student from Tunisia</h3>
+<h3 align="center">Cloud & DevOps engineer</h3>
 
-- 🌱 I’m currently learning **Cloud Computing**, **Azure**, **CI/CD DevOps** and **Jenkins** 
+- 🌱 I’m currently learning **Cloud Computing**, **CI/CD DevSecOps**, **Azure** and **AWS** 
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/mazeenaljane](https://www.behance.net/mazeenaljane)
 
