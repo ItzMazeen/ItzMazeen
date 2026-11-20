@@ -53,7 +53,10 @@
 
 ### 📊 GitHub stats
 
-<p align="left">
-  <a href="https://github.com/ItzMazeen"><img height="165" src="https://github-readme-stats.vercel.app/api?username=ItzMazeen&show_icons=true&theme=dracula&hide_border=true" alt="Mazen's GitHub stats" /></a>
-  <a href="https://github.com/ItzMazeen"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMazeen&layout=compact&theme=dracula&hide_border=true" alt="Top languages" /></a>
+<p align="center">
+  <a href="https://github.com/ItzMazeen"><img src="https://streak-stats.demolab.com?user=ItzMazeen&theme=dracula&hide_border=true" alt="GitHub contribution streak" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ItzMazeen"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzMazeen&theme=dracula" alt="GitHub profile summary" /></a>
 </p>
