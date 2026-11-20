@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen ALJANE</h1>
-<h3 align="center">DevOps Engineer at Ouinex</h3>
+<h3 align="center">DevOps Engineer at <a href="https://ouinex.com" target="_blank" rel="noopener noreferrer">Ouinex</a></h3>
 
 <div align="center">
 <table>
@@ -24,7 +24,7 @@
 
 ### 🚀 About me
 
-- 🏢 DevOps Engineer at **Ouinex**, building and running cloud infrastructure and delivery pipelines
+- 🏢 DevOps Engineer at **[Ouinex](https://ouinex.com)**, building and running cloud infrastructure and delivery pipelines
 - ⚙️ Focused on **CI/CD**, **DevSecOps**, **containers & Kubernetes**, and **Infrastructure as Code**
 - ☁️ Working across **AWS** and **Azure**
 - 🧑‍💻 Background in full-stack web & mobile development, so I speak both dev and ops
