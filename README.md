@@ -1,11 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mazen ALJANE</h1>
-<h3 align="center">☁️ DevOps Engineer at Ouinex</h3>
+<h3 align="center">DevOps Engineer at Ouinex</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mazenaljane"><img src="https://img.shields.io/badge/LinkedIn-mazenaljane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.behance.net/mazeenaljane"><img src="https://img.shields.io/badge/Behance-mazeenaljane-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="mailto:mazen.aljane@gmail.com"><img src="https://img.shields.io/badge/Gmail-mazen.aljane-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="230">
+      <a href="https://linkedin.com/in/mazenaljane" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a><br />
+      <a href="https://linkedin.com/in/mazenaljane" target="_blank" rel="noopener noreferrer">linkedin.com/in/mazenaljane</a>
+    </td>
+    <td align="center" width="230">
+      <a href="https://www.behance.net/mazeenaljane" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/behance/behance-original.svg" width="40" height="40" alt="Behance" /></a><br />
+      <a href="https://www.behance.net/mazeenaljane" target="_blank" rel="noopener noreferrer">behance.net/mazeenaljane</a>
+    </td>
+    <td align="center" width="230">
+      <a href="mailto:mazen.aljane@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail" /></a><br />
+      <a href="mailto:mazen.aljane@gmail.com">mazen.aljane@gmail.com</a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -20,9 +33,9 @@
 ### 🏅 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals (AZ-900)" />
-  <img src="https://img.shields.io/badge/Microsoft-Security,_Compliance_&_Identity_Fundamentals_(SC--900)-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Security, Compliance, and Identity Fundamentals (SC-900)" />
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" /><br />
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals (AZ-900)" /><br />
+  <img src="https://img.shields.io/badge/Microsoft-Security,_Compliance_&_Identity_Fundamentals_(SC--900)-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Security, Compliance, and Identity Fundamentals (SC-900)" /><br />
   <img src="https://img.shields.io/badge/Cisco-CCNAv7:_Introduction_aux_réseaux-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco CCNAv7: Introduction aux réseaux" />
 </p>
 
